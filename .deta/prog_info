@@ -1,0 +1,1 @@
+{"id":"bf5d5835-df40-4d08-93e2-bde00d29a1a0","space":15516,"runtime":"python3.9","name":"iss","path":"6s4kxv","project":"a028uvem","account":"144798365827","region":"eu-central-1","deps":["requests==2.27.1","fastapi"],"envs":["TTOKEN"],"public":true,"log_level":"debug","cron":"1 minute"}
